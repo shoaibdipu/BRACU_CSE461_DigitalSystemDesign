@@ -6,10 +6,10 @@
  * Project Title : Maze Solver & Android Based Bluetooth Controlled Robot 
  * 
  * Group Members :
- * ShoaibAhmedDipu_17101482_T03_L03
- * MehadiHassan_17101177_T03_L03
- * ShemontoDas_17101447_T03_L03
- * Nayem-Ul-Islam_17101380_T03_L03
+ * Shoaib Ahmed Dipu
+ * Mehadi Hassan
+ * Shemonto Das
+ * Nayem-Ul-Islam
  */
 
 
